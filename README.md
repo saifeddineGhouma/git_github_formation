@@ -6,4 +6,4 @@
  5- add all file with(git add .)
  6- express git (git commit -am commnt)
  7- show log(git show and git log)
-  
+ 8- show file traking (git ls-files) 
