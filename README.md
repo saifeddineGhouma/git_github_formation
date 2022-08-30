@@ -7,4 +7,6 @@
  6- express git (git commit -am commnt)
  7- show log(git show and git log)
  8- show file traking (git ls-files) 
+
  9- create new branch (git checkout -b updates(branch name)) master branch
+
